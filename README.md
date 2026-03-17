@@ -15,3 +15,4 @@
 ###### Data highlights the need for improved infrastructure and policy interventions
 ##### Outcome:
 ###### Created a data-driven dashboard to support awareness and decision-making in public health and sanitation.
+<img width="2026" height="1132" alt="image" src="https://github.com/user-attachments/assets/8cfa8897-d9bd-4d8d-b2a8-f8115c31c812" />
